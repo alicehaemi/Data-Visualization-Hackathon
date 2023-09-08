@@ -1,3 +1,3 @@
 # Data-Visualization-Hackathon
 
-[Link] to the project website https://msshreyavasant.wixsite.com/visualizers/services-7
+[Link](https://msshreyavasant.wixsite.com/visualizers/services-7) to the project website
