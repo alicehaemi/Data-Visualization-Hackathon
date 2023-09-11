@@ -1,4 +1,4 @@
-# Data-Visualization-Hackathon
+# Data Visualization Hackathon
 
 [Link](https://msshreyavasant.wixsite.com/visualizers) to the project website
 
